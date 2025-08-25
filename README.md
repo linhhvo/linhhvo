@@ -1,12 +1,12 @@
 ![header pic](/header.png)
 
 
-🎓&nbsp;&nbsp;&nbsp;I'm currently studying Computer Engineering at Aalto University.  
+🎓&nbsp;&nbsp;&nbsp;I'm currently studying Digital Systems and Design at Aalto University.  
 💻&nbsp;&nbsp;&nbsp;I'm interested in embedded programming, wearable technology, and mobile application development.  
 💼&nbsp;&nbsp;&nbsp;I'm a career-changer with previous work experience as a Business System Analyst and a Tax Accountant.
 
 📚&nbsp;&nbsp;&nbsp;What I'm working on:<img src="/languages.svg" width="400" align="right">
-  * Learning C++ with [learncpp](https://learncpp.com) and [2024 Advent of Code](https://adventofcode.com/)
+  * Learning C++ and practicing with [2024 Advent of Code](https://adventofcode.com/)
   * Reading *Make: Electronics* by Charles Platt
   * Creating a new version for my personal website
 
