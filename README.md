@@ -6,7 +6,7 @@
 💼&nbsp;&nbsp;&nbsp;I'm a career-changer with previous work experience as a Business System Analyst and a Tax Accountant.
 
 🛠️&nbsp;&nbsp;&nbsp;What I'm working on when not drowning in school assignments:<img src="/languages.svg" width="400" align="right">
-  * Learning C++ and practicing with [2024 Advent of Code](https://adventofcode.com/)
+  * [2024 Advent of Code](https://adventofcode.com/) with C++
   * Reading *Make: Electronics* by Charles Platt
   * Creating a new version for my personal website
 
