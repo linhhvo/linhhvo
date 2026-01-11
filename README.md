@@ -9,7 +9,7 @@
 
 
 🛠️&nbsp;&nbsp;&nbsp;What I'm working on when not drowning in school assignments:
-  * [2024 Advent of Code](https://adventofcode.com/) with C++
+  * [Advent of Code](https://adventofcode.com/) with Go
   * Reading *Make: Electronics* by Charles Platt
   * Creating a new version for my personal website
 
