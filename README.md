@@ -14,7 +14,7 @@
   * Creating a new version for my personal website
 
 💭&nbsp;&nbsp;&nbsp;Things I’ll tinker with once I free up some brain cells:
-  * Develop a personal finance app to replace my current excel tracker
+  * Develop a personal finance app
   * Develop a plant care app
   * Learn more microcontroller programming
 
